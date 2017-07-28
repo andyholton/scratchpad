@@ -5,7 +5,6 @@ int addNumbers(int a, int b);  // function prototype
 /**
 * @wi.implements playground/PLAY-4 main method
 */
-
 int main(){
 	int n1, n2, sum;
 
