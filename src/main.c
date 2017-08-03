@@ -39,3 +39,5 @@ bool sameNumber(int a, int b){
 	} else {
 		return false;
 	}
+}
+
