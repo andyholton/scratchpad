@@ -41,3 +41,10 @@ bool sameNumber(int a, int b){
 	}
 }
 
+/**
+ * @wi.test_point broadcomDemo/BCD-462 test stub
+ */
+
+bool assert(){
+	return false;
+}
