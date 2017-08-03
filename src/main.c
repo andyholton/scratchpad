@@ -28,3 +28,14 @@ int addNumbers(int a, int b){
 	result = a + b;
 	return result;
 }
+
+/**
+ * @wi.test_point broadcomDemo/BCD-430 tests if ints are equal by subtraction
+ */
+
+bool sameNumber(int a, int b){
+	if (a - b == 0){
+		return true;
+	} else {
+		return false;
+	}
